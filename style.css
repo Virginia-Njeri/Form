@@ -1,0 +1,99 @@
+body{
+    background-image: linear-gradient( to left,#fb9cee80, #d7a06266);
+}
+.container{
+    display: flex;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 3%;
+
+}
+.container>div{
+    margin: auto;
+
+}
+.box1{
+    background: rgb(241, 220, 124);
+    height: 500px;
+    width: 30%;
+    padding: 30px;
+    margin-left: 50%;
+
+
+}
+.box2{
+    background: aliceblue;
+    height: 500px;
+    width: 70%;
+    padding: 30px;
+    margin-right: 60%;
+}
+h1{
+    font-family: 'Updock', cursive;
+    color: rgb(151, 85, 9);
+}
+h2{
+    color: rgb(151, 85, 9);
+    
+}
+h3{
+    color: rgb(151, 85, 9);
+    padding-top: 10%;
+    font-size: small;
+
+}
+h4{
+    margin-top: -1%;
+    margin-left: 70%;
+}
+h5{
+font-size: larger;
+text-align: center;
+padding: 30px;
+}
+.username{
+  margin-left: 40%; 
+  margin-top: -6%; 
+  float: right 10%;
+    
+    
+}
+h6{
+    margin-left: 40%;
+    font-size: small;
+    margin-top: 0px 10px 0px 30%;
+    background-color: blue;
+    color: white;
+    padding-bottom: 0px 10px 0px 10px;
+    height: 20px;
+    width: 20%;
+ 
+    
+    
+}
+
+    
+p{
+    padding-left: 200px;
+
+}
+form{
+    padding-left: 60px;
+}
+p1{
+    margin-top: 60%;
+}
+input [type=create]{
+    background-color: red;
+    padding: 16px 17px;
+    margin: 4px 2px;
+    color: white;
+    border: none;
+    text-decoration: none; 
+
+}
+
+
+
+
+
